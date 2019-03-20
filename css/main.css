@@ -64,8 +64,8 @@ header {
 
 .hour_indicator {
     height: 40%;
-    transform-origin: 50% 109.5%;
-    right: 47%;
+    transform-origin: 50% 100%;
+    right: 51.7%;
 }
 
 .hour_indicator,
